@@ -24,5 +24,5 @@ console.log("After coming out of function :"+y);
 
 function test2(){
     y=4;
-    console.log("Inside function test 1: "+y);
+    console.log("Inside function test 2: "+y);
 }
